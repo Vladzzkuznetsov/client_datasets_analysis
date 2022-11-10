@@ -3,7 +3,7 @@
 #### Примененные инструменты
 - Сводные таблицы
 - KMeans кластеризация
-- Анализ корреляционных зависимостей и зависимостей fig
+- Анализ корреляционных зависимостей и зависимостей Phik
 - Анализ log_loss — scikit-learn
 - Анализ RandomForestClassifier — scikit-learn
 - Подобраны и оценены параметры работы модели с помощью метрик accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
@@ -48,7 +48,7 @@
 
 ![image](https://user-images.githubusercontent.com/111303182/201114921-e472dd03-2e64-4dc0-ad6c-1a801d13ed20.png)
 
-#### Зависимость fig
+#### Зависимость Phik
 - Tenure: если месяцев мало то отток вероятнее
 - MonthlyCharges: всплеск соотношения отточных клиентов в цене 80
 - TotalCharges: Клиенты заплатившие больше оттекают реже
